@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 6.0.5
+- fixed strong typing
+- forked by octolize
+
 ## 6.0.2 (relased 2022-02-14)
 - Increased composer.json PHP version for 8.1
 
